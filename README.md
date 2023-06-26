@@ -13,6 +13,9 @@
 🚀 Join me on this no-code journey - https://tialuxeportfolio.tech/portfolio/ as we explore the limitless possibilities of creating innovative solutions without the need for extensive coding. Let's shape the future of development together! ✨
 
 Feel free to connect with me - info@tialuxeportfolio.tech and explore my projects - https://tialuxeportfolio.tech/portfolio/. I'm always excited to collaborate and share knowledge with fellow developers! 👩‍💻🌟
+
+🔗 My Socials: Twitter - https://twitter.com/tialuxetech, Instagram - https://www.instagram.com/tialuxetech/, Facebook::Page - https://web.facebook.com/tialuxe :: https://web.facebook.com/tialuxetechfb/, Linkedin - https://www.linkedin.com/in/tialuxetech/
+
 <!---
 tialuxetech/tialuxetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
