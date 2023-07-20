@@ -10,7 +10,7 @@
 
 ✨ Although my recent focus has shifted away from writing code, I continue to maintain an active GitHub profile to showcase my projects and contribute to the developer community. While you may not find extensive code activities in my repositories, you will find a collection of projects leveraging the power of no-code platforms to deliver outstanding user experiences.
 
-🚀 Join me on this no-code journey - https://tialuxe.tech/portfolio/ as we explore the limitless possibilities of creating innovative solutions without the need for extensive coding. Let's shape the future of development together! ✨
+🚀 Join me on this no-code journey - https://tialuxe.tech/ as we explore the limitless possibilities of creating innovative solutions without the need for extensive coding. Let's shape the future of development together! ✨
 
 Feel free to connect with me - contactme@tialuxe.tech and explore my projects - https://tialuxe.tech/portfolio/. I'm always excited to collaborate and share knowledge with fellow developers! 👩‍💻🌟
 
